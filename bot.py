@@ -17,7 +17,7 @@ GROUP_USERNAME = "@groupofworldwar"
 CARD_NUMBER = "6221-0612-2285-1588"
 CARD_OWNER = "نام مالک کارت ، محمد جعفری"
 BOT_USERNAME = "@asnoasnbot"
-DB_NAME = "war_bot_data.db"
+DB_NAME = "war_bot_data_new.db"
 # ============================
 
 logging.basicConfig(level=logging.INFO)
